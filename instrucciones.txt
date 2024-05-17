@@ -1,0 +1,10 @@
+Road map de lo que vamos a enseñar
+
+1. Estructura básica HTML
+ 1.1 Qué es - Etiquetas
+
+2. Estiulos y reglas CSS
+ 2.1 Qué es - Como se vincula con HTML - Selectores y propiedades princiales
+  2.2 Acceso (Selección desde padre)
+
+3. Pequeños trucos que no nos hacen menos progromadores
